@@ -6,11 +6,11 @@ Independent researcher working on AI memory systems, long-term memory for LLM ag
 
 ## Affiliation
 
-I am an independent researcher without a current institutional affiliation or institutional email address.
+Independent Researcher. I do not currently have an institutional affiliation or institutional email address.
 
-## Current Submission Context
+## Current Work
 
-I am preparing a research submission on AI memory systems and agent state modeling. My current work focuses on structured memory, long-term memory for LLM agents, coordinate-based memory systems, and mesh-based AI state modeling.
+My current work focuses on AI memory systems, long-term memory for LLM agents, coordinate-based memory systems, and mesh-based AI state modeling.
 
 ## Research Interests
 
