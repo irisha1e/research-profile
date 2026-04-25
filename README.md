@@ -4,6 +4,14 @@ Research profile and project overview for AI memory systems and LLM agents.
 
 Independent researcher working on AI memory systems, long-term memory for LLM agents, and structured memory architectures.
 
+## Affiliation
+
+I am an independent researcher without a current institutional affiliation or institutional email address.
+
+## Current Submission Context
+
+I am preparing a research submission on AI memory systems and agent state modeling. My current work focuses on structured memory, long-term memory for LLM agents, coordinate-based memory systems, and mesh-based AI state modeling.
+
 ## Research Interests
 
 - Long-term memory for LLM agents
