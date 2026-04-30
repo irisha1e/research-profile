@@ -25,6 +25,11 @@ I am developing and evaluating the **Coordinate-Based Memory System (CMS)**, a s
 
 CMS treats conversational memory not as raw context accumulation, summarization, or retrieval output, but as an explicit state structure governed by fixed routing, update, priority, and exposure rules.
 
+## CMS Overview Figure
+
+The current CMS formulation separates long-term memory update from short-term context preparation and main generation.
+
+![CMS decoupled memory update and generation flow](figures/Figure_2_Decoupled_Memory_Update_and_Generation_Flow.png)
 The current CMS work focuses on:
 
 - long-term memory for LLM agents
