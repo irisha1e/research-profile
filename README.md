@@ -29,7 +29,9 @@ CMS treats conversational memory not as raw context accumulation, summarization,
 
 The current CMS formulation separates long-term memory update from short-term context preparation and main generation.
 
-<img src="figures/Figure_2_Decoupled_Memory_Update_and_Generation_Flow.png" alt="CMS decoupled memory update and generation flow" width="700">
+
+<img src="figures/Figure_2_Decoupled_Memory_Update_and_Generation_Flow.png" alt="CMS decoupled memory update and generation flow" width="600">
+
 The current CMS work focuses on:
 
 - long-term memory for LLM agents
