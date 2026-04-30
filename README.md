@@ -61,6 +61,8 @@ CMS is not proposed as a replacement for retrieval-augmented generation. Instead
 
 ## Current Manuscript
 
+For a short manuscript abstract, see: [CMS manuscript abstract](CMS_manuscript_abstract.md).
+
 Working title:
 
 **Coordinate-Based Memory System: An Explicit State-Structured Memory Abstraction for Persistent Conversational Agents**
