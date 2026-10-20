@@ -77,7 +77,7 @@ Current status:
 
 In addition to CMS, I am developing broader structured-state approaches for AI agents and controllable generative systems.
 
-### Mesh-Centric Cognitive Model (MCT)
+### Mesh-Based Cognitive Topology (MCT)
 
 MCT is a structured cognitive-state modeling framework based on nodes, edges, weights, and force-like propagation.
 
@@ -85,7 +85,7 @@ It is intended to model agent state, persona dynamics, affective tendencies, and
 
 MCT is currently separate from the CMS manuscript, but it shares the same research direction: making internal AI state more structured, inspectable, and controllable.
 
-### Expressive Audio Synthesis Engine (EASE)
+### Expressive Articulation Structuring Engine (EASE)
 
 EASE is a controllable expressive voice architecture built on structured state modeling.
 
